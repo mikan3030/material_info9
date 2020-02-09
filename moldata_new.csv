@@ -1,0 +1,651 @@
+"Table S1. Names, SMILES notations, experimental taste, and references for the 649 sweet and non-sweet chemicals.",,,
+Number,Name,SMILES,Class
+1,Sucrose,OCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)O,Sweet
+2,"Sucralose / 4,1',6'-Trichloro-galactosucrose",ClCC1OC(C(C1O)O)(CCl)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+3,Alitame,CC(COCNC1C(C)(C)SC1(C)C)NCOCC(CC(=O)O)N,Sweet
+4,Aspartame/Aspartyl-phenylalanine methylester,COC(=O)C(NC(=O)C(CC(=O)O)N)Cc1ccccc1,Sweet
+5,Tagatose,C1C(C(C(C(O1)(CO)O)O)O)O,Sweet
+6,Maltitol,OCC(C(C(C(CO)O)O)OC1OC(CO)C(C(C1O)O)O)O,Sweet
+7,Isomaltulose/Palatinose,OCC1OC(OCC2OC(C(C2O)O)(O)CO)C(C(C1O)O)O,Sweet
+8,Trehalose,OCC1OC(OC2OC(CO)C(C(C2O)O)O)C(C(C1O)O)O,Sweet
+9,Acesulfame potassium,CC1=CC(=O)[N-]S(=O)(=O)O1.[K+],Sweet
+10,Sodium cyclamate,C1CCC(CC1)NS(=O)(=O)[O-].[Na+],Sweet
+11,Neohesperidine dihydrochalcone,OCC1OC(Oc2cc(O)c(c(c2)O)C(=O)CCc2ccc(c(c2)O)OC)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Sweet
+12,Neotame,CC(C)(C)CCNC(CC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)OC,Sweet
+13,Sodium saccharin,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[Na+],Sweet
+14,Isomalt (Palatinit) / Isomaltitol,OCC(C(C(C(COC1OC(CO)C(C(C1O)O)O)O)O)O)O,Sweet
+15,Sorbitol,C(C(C(C(C(CO)O)O)O)O)O,Sweet
+16,Erythritol,OCC(C(CO)O)O,Sweet
+17,Xylitol,OCC(C(C(CO)O)O)O,Sweet
+18,Stevioside,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)OC2OC(CO)C(C(C2O)O)O)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+19,Steviolbioside,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)O)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+20,Rebaudioside A,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)OC2OC(CO)C(C(C2O)O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+21,Rebaudioside B,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+22,Rebaudioside C,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)OC2OC(CO)C(C(C2O)O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(C)C(C(C1O)O)O,Sweet
+23,Rebaudioside D,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2(C)C(=O)OC2OC(CO)C(C(C2OC2OC(CO)C(C(C2O)O)O)O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+24,Rebaudioside E,OCC1OC(OC(=O)C2(C)CCCC3(C2CCC24C3CCC(C4)(C(=C)C2)OC2OC(CO)C(C(C2OC2OC(CO)C(C(C2O)O)O)O)O)C)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+25,Dulcoside A,CC1C(C(C(C(O1)OC2C(C(C(OC2OC34CCC5C6(CCCC(C6CCC5(C3)CC4=C)(C)C(=O)OC7C(C(C(C(O7)CO)O)O)O)C)CO)O)O)O)O)O,Sweet
+26,Glycyrrhizin,OC1C(OC2OC(C(=O)O)C(C(C2O)O)O)C(OC(C1O)C(=O)O)OC1CCC2(C(C1(C)C)CCC1(C2C(=O)C=C2C1(C)CCC1(C2CC(C)(CC1)C(=O)O)C)C)C,Sweet
+27,Hernandulcin,CC(=CCCC(C1CCC(=CC1=O)C)(O)C)C,Sweet
+28,Fructose,OCC1OC(C(C1O)O)(O)CO,Sweet
+29,Glucose,OCC1OC(O)C(C(C1O)O)O,Sweet
+30,Xylose,OC1COC(C(C1O)O)O,Sweet
+31,Maltose,OCC1OC(O)C(C(C1OC1OC(CO)C(C(C1O)O)O)O)O,Sweet
+32,Lactulose,OCC1OC(C(C1OC1OC(CO)C(C(C1O)O)O)O)(O)CO,Sweet
+33,Lactosucrose,OCC1OC(OC2(CO)OC(C(C2O)O)CO)C(C(C1OC1OC(CO)C(C(C1O)O)O)O)O,Sweet
+34,Raffinose,OCC1OC(C(C1O)O)(CO)OC1OC(COC2OC(CO)C(C(C2O)O)O)C(C(C1O)O)O,Sweet
+35,Rhamnose,OC1C(C)OC(C(C1O)O)O,Sweet
+36,Naringin,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,Non-sweet
+37,Gentiobiose,OCC1OC(OCC2OC(O)C(C(C2O)O)O)C(C(C1O)O)O,Non-sweet
+38,Limonin,O=C1OCC23C(C1)OC(C2CC(=O)C1(C3CCC2(C31OC3C(=O)OC2c1cocc1)C)C)(C)C,Non-sweet
+39,Oleuropein,OCC1OC(OC2OC=C(C(C2=CC)CC(=O)OCCc2ccc(c(c2)O)O)C(=O)OC)C(C(C1O)O)O,Non-sweet
+40,Caffeine?,Cn1cnc2c1c(=O)n(C)c(=O)n2C,Non-sweet
+41,Poncirin,OCC1OC(Oc2cc3OC(CC(=O)c3c(c2)O)c2ccc(cc2)OC)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Non-sweet
+42,Neoeriocitrin,OCC1OC(Oc2cc(O)c3c(c2)OC(CC3=O)c2ccc(c(c2)O)O)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Non-sweet
+43,Quinine,C=CC1CN2CCC1CC2C(c1ccnc2c1cc(OC)cc2)O,Non-sweet
+44,Divinyl glycol,C=COCCOC=C,Non-sweet
+45,Theobromine,Cn1cnc2c1c(=O)[nH]c(=O)n2C,Non-sweet
+46,Picrocrocin,OCC1OC(OC2CC(=C(C(C2)(C)C)C=O)C)C(C(C1O)O)O,Non-sweet
+47,Glycerol,OCC(CO)O,Sweet
+48,Saccharin derivative 1,Cc1ccc2c(c1)S(=O)(=O)NC2=O,Sweet
+49,Saccharin derivative 2,Clc1ccc2c(c1)S(=O)(=O)NC2=O,Sweet
+50,Saccharin derivative 3,BrCCN1C(=O)c2c(S1(=O)=O)cccc2,Non-sweet
+51,3-nitro-o-toluidine,O=N(=O)c1cccc(c1C)N,Non-sweet
+52,3-nitro-p-toluidine,CC1=C(C=C(C=C1)N)[N+](=O)[O-],Non-sweet
+53,2-amino-4-nitro-propoxybenzene,CCCOc1ccc(cc1N)N(=O)=O,Sweet
+54,2-nitro-4-amino-propoxybenzene,CCCOc1ccc(cc1N(=O)=O)N,Non-sweet
+55,"2,4-dinitro-propoxybenzene",CCCOc1ccc(cc1N(=O)=O)N(=O)=O,Non-sweet
+56,Dulcin (p-ethoxyphenylurea),CCOc1ccc(cc1)NC(=O)N,Sweet
+57,4-Ethoxyphenylthiourea,CCOc1ccc(cc1)NC(=S)N,Non-sweet
+58,o-ethoxyphenylurea,CCOc1ccccc1NC(=O)N,Non-sweet
+59,Dihydroquercetin 3-acetate 4'-(methylether) (3),COc1ccc(cc1O)C1Oc2cc(O)cc(c2C(=O)C1OC(=O)C)O,Sweet
+60,Flavan (4),COc1ccc(cc1O)C1CCc2c(O1)cccc2,Sweet
+61,Compound 5,COc1ccc(cc1O)C1OCc2c(C1)cccc2,Sweet
+62,"1,3-benzodioxane (6)",COc1ccc(cc1O)C1OCc2c(O1)cccc2,Sweet
+63,"1,4-benzodioxane (7)",COc1ccc(cc1O)C1COc2c(O1)cccc2,Sweet
+64,Bibenzyl derivative (8),COc1ccc(cc1O)CCc1ccccc1,Sweet
+65,"1,4-benzodioxin (9)",COc1ccc(cc1O)C1=COc2c(O1)cccc2,Non-sweet
+66,"Isoflavan or 3-(3-Hydroxy-4-methoxyphenyl)-3,4-dihydro-2H-1benzopyran (10)",COc1ccc(cc1O)C1COc2c(C1)cccc2,Sweet
+67,"2-(3-Hydroxy-4-methoxyphenyl)-4,5-dihydro-1,3-benzodioxepine (11)",COc1ccc(cc1O)C1OCCc2c(O1)cccc2,Non-sweet
+68,"3-(3Hydroxy-4-methoxyphenyl)-1,5-dihydro-2,4-benzodioxepine (12)",COc1ccc(cc1O)C1OCc2c(CO1)cccc2,Non-sweet
+69,"2-(3-hydroxy-4-methoxyphenyl)-1,3-benzodioxole (13)",COc1ccc(cc1O)C1Oc2c(O1)cccc2,Sweet
+70,Compound 23,COc1ccc(cc1O)c1cc2cccc(c2c(=O)o1)O,Non-sweet
+71,Compound 24,COc1ccc(cc1O)c1cc(=O)c2c(o1)cccc2O,Non-sweet
+72,Compound 25,COc1ccc(cc1O)C1OC(=O)c2c1cccc2,Non-sweet
+73,"2-(3-Hydroxy-4-methoxyphenyl)-4-H-1,3-benzodithiine (10a)",COc1ccc(cc1O)C1SCc2c(S1)cccc2,Sweet
+74,"2-(3-Hydroxy-4-methoxyphenyl)-4H-1,3-benzoxathiine (10c)",COc1ccc(cc1O)C1SCc2c(O1)cccc2,Sweet
+75,"2-(3-Hydroxy-4-methoxyphenyl)-4H-1,3-benzodithiole (10d)",COc1ccc(cc1O)C1Sc2c(S1)cccc2,Sweet
+76,"2-(3-Hydroxy-4-methoxyphenyl)-1,3-benzoxathiole (10e)",COc1ccc(cc1O)C1Oc2c(S1)cccc2,Sweet
+77,"7,8-Dimethyl-3-(3-hydroxy-4-methoxyphenyl)-1,5-dihydro-2,4-benzodithiepine (10f)",COc1ccc(cc1O)C1SCc2c(CS1)cccc2,Non-sweet
+78,"2-(3-Hydroxy-4-methoxyphenyl)-2,3-dihydro-1,4-benzoxathiine (15a)",COc1ccc(cc1O)C1CSc2c(O1)cccc2,Sweet
+79,"2-(3-Hydroxy-4-methoxyphenyl)-2,3-dihydro-1,4-benzodithiine (15b)",COc1ccc(cc1O)C1CSc2c(S1)cccc2,Sweet
+80,"2-(3-Hydroxy-4-methylthiophenyl)-2,3-dihydro-1,4-benzoxathiine (15c)",CSc1ccc(cc1O)C1CSc2c(O1)cccc2,Non-sweet
+81,"2-(3-Hydroxy-4-methoxyphenyl)-2,3-dihydro-1,4-benzoxathiin-6-ol (15d)",COc1ccc(cc1O)C1CSc2c(O1)ccc(c2)O,Sweet
+82,"2-(3-Hydroxy-4-methylthiophenyl)-2,3-dihydro-1,4-benzoxathiin-6-ol (15e)",CSc1ccc(cc1O)C1CSc2c(O1)ccc(c2)O,Non-sweet
+83,"2-(3-Hydroxy-4-methoxyphenyl)-3,4-dihydro-2H-1-benzothiopyran (18)",COc1ccc(cc1O)C1CCc2c(S1)cccc2,Sweet
+84,"3-(3-Hydroxy-4-methoxyphenyl)-3,4-dihydro-2H-1-benzothiopyran (19)",COc1ccc(cc1O)C1CSc2c(C1)cccc2,Non-sweet
+85,"2-(3-Mercapto-4-methoxyphenyl)-4H-3,1-benzoxathiine (23)",COc1ccc(cc1S)C1OCc2c(S1)cccc2,Sweet
+86,Sulfone,COc1ccc(cc1O)C1Oc2ccccc2S(=O)(=O)C1,Sweet
+87,Haematoxylin,Oc1cc2CC3(C(c2cc1O)c1ccc(c(c1OC3)O)O)O,Sweet
+88,"9-Methoxy-7,11b-dihydrobenz[b]indeno[1,2-d]pyran-6a,10-diol (4)",COc1cc2CC3(C(c2cc1O)c1ccccc1OC3)O,Sweet
+89,"10-Methoxy-7,11b-dihydrobenz[b]indeno[1,2-d]pyran-6a,9-diol (5)",COc1cc2c(cc1O)CC1(C2c2ccccc2OC1)O,Non-sweet
+90,"3,9,10-Trimethoxy-7,11b-dihydrobenz[b]indeno[1,2-d]pyran-4,6a-diol (6)",COc1cc2CC3(C(c2cc1OC)c1ccc(c(c1OC3)O)OC)O,Non-sweet
+91,"4,9,10-Trimethoxy-7,11b-dihydrobenz[b]indeno[1,2-d]pyran-3,6a-diol (7)",COc1cc2c(cc1OC)CC1(C2c2ccc(c(c2OC1)OC)O)O,Non-sweet
+92,Tetramethylhaematoxylin (8),COc1cc2CC3(C(c2cc1OC)c1ccc(c(c1OC3)OC)OC)O,Non-sweet
+93,Compound 8,COc1ccc2c(c1O)CCC1C2CCC2(C1CCC2)C,Sweet
+94,Compound 17,COc1ccc(cc1)C1OCc2c(S1)cccc2,Non-sweet
+95,Compound 18,Oc1cccc(c1)C1OCc2c(S1)cccc2,Sweet
+96,Compound 19,CCNC(=O)Oc1cc(ccc1OC)C1OCc2c(S1)cccc2,Non-sweet
+97,Compound 20,COc1ccc(cc1OC(=O)Nc1ccccc1)C1OCc2c(S1)cccc2,Sweet
+98,Compound 21,COc1ccc(cc1OC(=O)Nc1ccc(cc1)N(=O)=O)C1OCc2c(S1)cccc2,Sweet
+99,Compound 25,COc1ccc(c(c1O)NC(=O)c1ccc(cc1)N(=O)=O)C1OCc2c(S1)cccc2,Non-sweet
+100,Compound 26,COc1ccc(c(c1O)C=Cc1ccc(cc1)N(=O)=O)C1OCc2c(S1)cccc2,Sweet
+101,Compound 27,COc1ccc(c(c1O)C=CCc1ccc(cc1)N(=O)=O)C1OCc2c(S1)cccc2,Non-sweet
+102,Compound 28,COc1cc(N(=O)=O)c(cc1O)C1OCc2c(S1)cccc2,Non-sweet
+103,Compound 29,ON=C1Cc2ccccc2OC1c1ccc(c(c1)O)OC,Non-sweet
+104,Compound 30,COc1ccc(cc1O)C1Oc2ccccc2OC1C,Non-sweet
+105,2-(4-methoxybenzoyl) benzoic acid,COc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Sweet
+106,Compound 2,O=C(c1ccccc1C(=O)O)c1ccccc1,Non-sweet
+107,Compound 3,Cc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Sweet
+108,Compound 4,CCOc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Sweet
+109,Compound 5,CCCOc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Non-sweet
+110,Compound 6,O=C(c1ccccc1C(=O)O)c1ccc(cc1)Oc1ccccc1,Non-sweet
+111,Compound 7,Oc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Sweet
+112,Compound 8,CSc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Non-sweet
+113,Compound 9,O=C(c1ccccc1C(=O)O)c1ccc(cc1)N(C)C,Sweet
+114,2-(4-Nitrobenzoyl)benzoic Acid (10),O=C(c1ccccc1C(=O)O)c1ccc(cc1)N(=O)=O,Non-sweet
+115,Compound 11,O=C(c1ccccc1C(=O)O)c1ccc(cc1)C(=O)O,Non-sweet
+116,Compound 12,Clc1ccc(cc1)C(=O)c1ccccc1C(=O)O,Sweet
+117,Compound 13,O=C(c1ccccc1C(=O)O)c1ccc(cc1)c1ccccc1,Non-sweet
+118,"2-(3,4-Dihydroxybenzoyl)benzoic Acid (14)",O=C(c1ccccc1C(=O)O)c1ccc(c(c1)O)O,Sweet
+119,2-(3-Hydroxy-4-methoxybenzoyl)benzoic Acid (15),COc1ccc(cc1O)C(=O)c1ccccc1C(=O)O,Sweet
+120,2-(4-Hydroxy-3-methoxybenzoyl)benzoic Acid (16),COc1cc(ccc1O)C(=O)c1ccccc1C(=O)O,Non-sweet
+121,"2-(3,4-Dimethoxybenzoyl)benzoic Acid (17)",COc1cc(ccc1OC)C(=O)c1ccccc1C(=O)O,Non-sweet
+122,"2-(2,4-Dimethoxybenzoyl)benzoic Acid (18)",COc1cc(OC)ccc1C(=O)c1ccccc1C(=O)O,Non-sweet
+123,2-(4-Hydroxy-2-methoxybenzoyl)benzoic Acid (19),COc1ccc(c(c1)O)C(=O)c1ccccc1C(=O)O,Non-sweet
+124,Compound 20,COc1ccc(cc1)Cc1ccccc1C(=O)O,Non-sweet
+125,Compound 21,COc1ccc(cc1)Oc1ccccc1C(=O)O,Non-sweet
+126,Compound 22,COc1ccc(cc1)Sc1ccccc1C(=O)O,Non-sweet
+127,2-(4-Methoxyphenylthio) benzoic Acid S-Oxide (23),COc1ccc(cc1)S(=O)c1ccccc1C(=O)O,Sweet
+128,Compound 24,COc1ccc(cc1)C(=O)c1ccccc1,Non-sweet
+129,Compound 25,COc1ccc(cc1)C(=O)c1ccccc1C(=O)OC,Non-sweet
+130,2-Hydroxymethylphenyl-4-methoxyphenylmethanol (26),COc1ccc(cc1)C(c1ccccc1CO)O,Non-sweet
+131,Phthalic Acid Mono(4-methoxyphenyl) Ester (27),COc1ccc(cc1)OC(=O)c1ccccc1C(=O)O,Sweet
+132,3-(4-Methoxyphenyl)benzo[2]furan-1-one (28),COc1ccc(cc1)C1OC(=O)c2c1cccc2,Non-sweet
+133,Compound 29,COc1ccc(cc1)C(=O)C(=CC(=O)O)C,Non-sweet
+134,"3-Methoxy-1,3,5-estratrien-4-ol (4)",COc1cc2CCC3C(c2cc1O)CCC1(C3CCC1)C,Sweet
+135,Substituted pterocarpan (5),COc1cc2OC3C(c2cc1O)COc1c3cccc1,Non-sweet
+136,"Spiro[(4-H-1,3-benzodithian)-2,1'-(5'-methoxy-6'hydroxy-[1H]-2',3'-dihydroindene)] (6)",COc1cc2CCC3(c2cc1O)SCc1c(S3)cccc1,Sweet
+137,"Spiro[(4-H-1,3-benzodithian)-2,1'-(5'-hydroxy-6'-methoxy-[1H]-2',3'-dihydroindene)] (7)",COc1cc2c(cc1O)CCC12SCc2c(S1)cccc2,Non-sweet
+138,"Spiro[(4-H-1,3-benzodithian)-2,1'-(4'-hydroxy-5'-methoxy-[1H]-2',3'-dihydroindene)] (8)",COc1ccc2c(c1O)CCC12SCc2c(S1)cccc2,Non-sweet
+139,"2-Phenoxymethyl-2H-7,8-dihydrobenzopyran (9)",COc1cc2CCOC(c2cc1O)COc1ccccc1,Non-sweet
+140,"2-Methyl-2-(3-hydroxy-4-methoxyphenyl)-1,4-dihydrobenzodioxane (12)",COc1ccc(cc1O)C1(C)COc2c(O1)cccc2,Non-sweet
+141,Phyllodulcin,COc1ccc(cc1O)C1OC(=O)c2c(C1)cccc2O,Sweet
+142,Compound 4,COc1ccc(cc1O)C1OCc2c(S1)cccc2,Sweet
+143,Compound 6,COc1ccc(cc1O)C1COc2c(S1)cccc2,Sweet
+144,Compound 9,COc1ccc(cc1O)C1SCC23C(O1)CC(C3(C)C)CC2,Sweet
+145,"3',4'-dihydroxyphenyl-3,1-benzoxathiane (18)",Oc1ccc(cc1O)C1OCc2c(S1)cccc2,Sweet
+146,"2-[3-(4-nitrophenoxycarboxy)phenyl]-3,1-benzoxathiane (25)",O=C(Oc1cc(ccc1O)C1OCc2c(S1)cccc2)Oc1ccc(cc1)N(=O)=O,Sweet
+147,"2-[3-(4-nitrophenylcarbonylmethoxy)-4-methoxyphenyl]-3,1-benzoxathiane (26)",O=C(c1ccc(cc1)N(=O)=O)COc1cccc(c1)C1OCc2c(S1)cccc2,Sweet
+148,"2-[3-(4-nitrophenylcarbamoyloxy-4-methoxy)phenyl]-3,1-benzodioxane (27)",COc1ccc(cc1OC(=O)Nc1ccc(cc1)N(=O)=O)C1OCc2c(O1)cccc2,Sweet
+149,Compound 32,COc1ccc(cc1O)CCC(=O)c1c(O)cc(cc1O)O,Sweet
+150,3-(3-Hydroxy-4-methoxyphenyl)-1-(3-carboxyphenyl)propan-1-one (33),COc1ccc(cc1O)CCC(=O)c1cccc(c1)C(=O)O,Sweet
+151,Compound 34,COc1ccc(cc1O)C1Cc2cc(O)cc(c2C(=O)C1OC(=O)C)O,Sweet
+152,2-(3-hydroxy-4-methoxyphenoxymethyl)benzoic acid (40),COc1ccc(cc1O)OCc1ccccc1C(=O)O,Sweet
+153,Compound 42,COc1ccc(cc1)C(=O)C=CC(=O)O,Sweet
+154,Dihydroquercetin 4'-(methyl ether),COc1ccc(cc1O)C1Oc2cc(O)cc(c2C(=O)C1O)O,Sweet
+155,Dihydroquercetin,Oc1cc2OC(c3ccc(c(c3)O)O)C(C(=O)c2c(c1)O)O,Non-sweet
+156,Compound II or Hydrangenol,Oc1ccc(cc1)C1OC(=O)c2c(C1)cccc2O,Non-sweet
+157,Compound III,COc1cc(ccc1OC)C1OC(=O)c2c(C1)cccc2O,Non-sweet
+158,Compound IV,COc1cc(ccc1OC)C1OC(=O)c2c(C1)cccc2OC,Non-sweet
+159,Compound V,COc1ccc(cc1OC(=O)C)C1OC(=O)c2c(C1)cccc2OC(=O)C,Sweet
+160,Compound VI,Oc1cc(ccc1O)C1OC(=O)c2c(C1)cccc2O,Non-sweet
+161,Compound VII,COc1ccc(cc1O)C1OC(=O)c2c(C1)cccc2,Sweet
+162,Compound VIII,COc1cc(ccc1O)C1OC(=O)c2c(C1)cccc2,Non-sweet
+163,Compound IX,Oc1cccc(c1)C1OC(=O)c2c(C1)cccc2,Non-sweet
+164,Compound X,COc1ccc(cc1)C1OC(=O)c2c(C1)cccc2,Non-sweet
+165,Compound XI,O=C1OC(Cc2c1cccc2)c1ccc(c(c1)O)O,Non-sweet
+166,Compound XII,COc1ccc(cc1O)Cc1ccccc1,Non-sweet
+167,Compound XIV,COc1ccc(cc1O)CCCc1ccccc1,Sweet
+168,Compound XV,COc1ccc(cc1O)CCCCc1ccccc1,Non-sweet
+169,Compound XVI,COc1ccc(cc1O)C=Cc1ccccc1,Non-sweet
+170,Compound XVII,COc1ccc(cc1O)CC(c1ccccc1)C(=O)O,Non-sweet
+171,Compound XVIII,COc1ccc(cc1O)CC(c1ccccc1)C,Non-sweet
+172,Compound XIX,OCC(c1ccccc1)Cc1ccc(c(c1)O)OC,Non-sweet
+173,Compound XX,CCOC(=O)C(c1ccccc1)Cc1ccc(c(c1)O)OC,Non-sweet
+174,Compound XXI,COc1ccc(cc1O)CNc1ccccc1,Sweet
+175,Compound XXII,COc1ccc(cc1O)COc1ccccc1,Sweet
+176,Compound XXIII,COc1ccc(cc1O)CSc1ccccc1,Sweet
+177,Compound XXIV,COc1ccc(cc1O)NCc1ccccc1,Sweet
+178,Compound XXV,COc1ccc(cc1O)C(=O)Cc1ccccc1,Non-sweet
+179,Compound XXVI,COc1ccc(cc1O)C(=O)Nc1ccccc1,Non-sweet
+180,Compound XXVII,COc1ccc(cc1O)C(=O)Oc1ccccc1,Sweet
+181,Compound XXVIII,COc1ccc(cc1O)C(=O)Sc1ccccc1,Non-sweet
+182,Compound XXIX,COc1ccc(cc1O)COC(=O)c1ccccc1,Non-sweet
+183,Compound XXX,COc1ccc(cc1O)COC(=O)c1ccccc1O,Sweet
+184,Compound XXXI,COc1ccc(cc1O)CC(=O)c1ccccc1O,Sweet
+185,Guaiacol,COc1ccccc1O,Non-sweet
+186,Compound XXXII,COc1ccc(cc1O)CCC1CCCCC1,Sweet
+187,Compound XXXIII,CCCNCc1ccc(c(c1)O)OC,Non-sweet
+188,Compound XXXIV,COc1ccc(cc1O)CNCC(C)C,Non-sweet
+189,Compound XXXV,COc1ccc(cc1O)CNCC(C)(C)C,Non-sweet
+190,Compound XXXVII,COc1ccc(cc1O)CC1OC(=O)c2c1cccc2,Non-sweet
+191,Compound XXXVIII,COc1ccc(cc1O)CCc1cccc2c1cccc2,Non-sweet
+192,Compound XXXIX,COc1ccc(cc1O)CCc1ccc2c(c1)cccc2,Non-sweet
+193,Compound XL,COc1ccc(cc1O)CCc1ccccc1C,Sweet
+194,Compound XLI,COc1ccc(cc1O)CCc1ccccc1O,Sweet
+195,Compound XLII,COc1ccc(cc1O)CCc1ccccc1OC,Sweet
+196,Compound XLIII,COc1ccc(cc1O)CCc1ccccc1CO,Sweet
+197,Compound XLIV,COC(=O)c1ccccc1CCc1ccc(c(c1)O)OC,Non-sweet
+198,Compound XLV,COc1ccc(cc1O)CCc1ccccc1C(C)C,Non-sweet
+199,Compound XLVI,COc1ccc(cc1O)CCc1ccccc1C(=O)O,Non-sweet
+200,Compound XLVII,COc1ccc(cc1O)CCc1cccc(c1)C,Sweet
+201,Compound XLVIII,COc1ccc(cc1O)CCc1cccc(c1)O,Non-sweet
+202,Compound XLIX,COc1cccc(c1)CCc1ccc(c(c1)O)OC,Sweet
+203,Compound L,COc1ccc(cc1O)CCc1cccc(c1)CO,Non-sweet
+204,Compound LI,COC(=O)c1cccc(c1)CCc1ccc(c(c1)O)OC,Non-sweet
+205,Compound LII,COc1ccc(cc1O)CCc1cccc(c1)C(=O)O,Non-sweet
+206,Compound LIII,COc1ccc(cc1O)CCc1ccc(cc1)C,Non-sweet
+207,Compound LIV,COc1ccc(cc1O)CCc1ccc(cc1)O,Sweet
+208,Compound LV,COc1ccc(cc1)CCc1ccc(c(c1)O)OC,Non-sweet
+209,Compound LVI,OCc1ccc(cc1)CCc1ccc(c(c1)O)OC,Non-sweet
+210,Compound LVII,COC(=O)c1ccc(cc1)CCc1ccc(c(c1)O)OC,Non-sweet
+211,Compound LVIII,COc1ccc(cc1O)CCc1ccc(cc1)C(=O)O,Non-sweet
+212,Compound LIX,COc1ccc(cc1O)CCc1ccc(cc1)F,Sweet
+213,Compound LX,COc1ccc(cc1O)CCc1ccc(cc1)Cl,Non-sweet
+214,Compound LXI,COc1ccc(cc1O)CCc1ccc(cc1)Br,Non-sweet
+215,Compound LXII,COc1ccc(cc1O)CCc1ccc(c(c1)O)OC,Non-sweet
+216,Compound LXIII,COc1ccc(cc1O)CCc1ccc(c(c1)OC)O,Non-sweet
+217,Compound LXIV,COc1ccc(cc1O)CCc1ccc(c(c1)OC)OC,Non-sweet
+218,Compound LXV,COc1ccc(cc1O)CCc1ccc2c(c1)OCO2,Sweet
+219,Compound LXVI,CCOc1ccc(cc1O)CCc1ccccc1,Sweet
+220,Compound LXVII,CCCCCOc1ccc(cc1O)CCc1ccccc1,Non-sweet
+221,Compound LXVIII,COc1cc(CCc2ccccc2)ccc1O,Non-sweet
+222,Compound LXIX,COc1ccc(cc1N)CCc1ccccc1,Non-sweet
+223,Compound LXX,COc1ccc(cc1OCC(=O)O)CCc1ccccc1,Non-sweet
+224,Compound LXXI,NC(=O)Nc1ccc(cc1)CCc1ccccc1,Non-sweet
+225,Compound LXXII,COC1CCC(CC1O)CCC1CCCCC1,Non-sweet
+226,Compound LXXIII,COCC(CC(CCc1ccccc1)C)O,Non-sweet
+227,Compound LXXIV,COCC(CCCCc1ccccc1)O,Non-sweet
+228,Compound LXXV,COCC(CCCc1ccccc1)O,Non-sweet
+229,Compound LXXVI,COCCCC(CCc1ccccc1)CCC,Non-sweet
+230,Compound LXXVII,COc1ccc(cc1O)c1cc2ccccc2c(=O)o1,Non-sweet
+231,Compound LXXVIII,COc1ccc(cc1O)C1OC(=O)c2c(O1)cccc2,Sweet
+232,Compound LXXIX,COc1ccc(cc1O)C1OC(=O)c2c(S1)cccc2,Sweet
+233,Compound LXXX,COc1ccc(cc1O)C1NC(=O)c2c(C1)cccc2O,Sweet
+234,Compound LXXXI,COc1ccc(cc1O)C1NC(=O)c2c(C1)cccc2,Non-sweet
+235,Compound LXXXII,COc1ccc(cc1O)C1NC(=O)c2c(N1)cccc2,Non-sweet
+236,Compound LXXXIII,COc1ccc(cc1O)C1NC(=O)c2c(O1)cccc2,Non-sweet
+237,Compound LXXXIV,COc1ccc(cc1O)C1NC(=O)c2c(S1)cccc2,Non-sweet
+238,Compound LXXXV,COc1ccc(cc1O)C1OCc2c(C1)cccc2O,Sweet
+239,Compound LXXXVIII,COc1ccc(cc1O)C1CC(=O)c2c(O1)cccc2,Non-sweet
+240,Compound LXXXIX,COc1ccc(cc1O)C1CC(=O)c2c(O1)cccc2O,Sweet
+241,Compound XC,CCOc1ccc(cc1O)C1CC(=O)c2c(O1)cccc2O,Sweet
+242,Compound XCI,CCCOc1ccc(cc1O)C1CC(=O)c2c(O1)cccc2O,Sweet
+243,Compound XCII,COc1cc(ccc1O)C1CC(=O)c2c(O1)cccc2O,Non-sweet
+244,Compound XCIII,Oc1ccc(cc1)C1CC(=O)c2c(O1)cccc2O,Non-sweet
+245,Compound XCV,COc1ccc(cc1O)CCC(=O)c1ccccc1O,Sweet
+246,Compound XCVI,CCOc1ccc(cc1O)CCC(=O)c1ccccc1O,Sweet
+247,Compound XCVII,CCCOc1ccc(cc1O)CCC(=O)c1ccccc1O,Non-sweet
+248,Compound XCVIII,COc1ccc(cc1O)CCC(=O)c1c(O)cccc1O,Non-sweet
+249,Compound CX,CCOc1ccc(cc1O)CCC(=O)c1c(O)cccc1O,Non-sweet
+250,Compound C,CCCOc1ccc(cc1O)CCC(=O)c1c(O)cccc1O,Non-sweet
+251,Compound CI,COc1cc(CCC(=O)c2c(O)cccc2O)ccc1O,Non-sweet
+252,Compound CII,Oc1ccc(cc1)CCC(=O)c1c(O)cccc1O,Non-sweet
+253,Nitrobenzene,O=N(=O)c1ccccc1,Sweet
+254,m-Nitrobenzene,O=N(=O)c1cccc(c1)N(=O)=O,Non-sweet
+255,Phenylthiourea,C1=CC=C(C=C1)NC(=S)N,Non-sweet
+256,Dimethyl urea,CN(C(=O)N)C,Sweet
+257,Urea,NC(=O)N,Non-sweet
+258,Resorcinol,Oc1cccc(c1)O,Sweet
+259,Phloroglucinol,Oc1cc(O)cc(c1)O,Sweet
+260,Glycol,OCCO,Sweet
+261,"1,4-Anhydro-ribitol",OCC1OCC(C1O)O,Sweet
+262,"1,4-Anhydro-mannitol",OCC(C1OCC(C1O)O)(O)C,Sweet
+263,"1,5-Anhydro-mannitol",OCC1OCC(C(C1O)O)O,Sweet
+264,Viboquercitol,OC1CC(O)C(C(C1O)O)O,Sweet
+265,Allo-inositol,OC1C(O)C(O)C(C(C1O)O)O,Sweet
+266,Dihydroxyacetone,OCC(=O)CO,Sweet
+267,Monohydroxyacetone,CC(=O)CO,Sweet
+268,Methyl dihydroxyacetone,COCC(=O)CO,Sweet
+269,Stachyose,OCC1OC(C(C1O)O)(CO)OC1OC(COC2OC(COC3OC(CO)C(C(C3O)O)O)C(C(C2O)O)O)C(C(C1O)O)O,Sweet
+270,4-O-Methyl sucrose,COC1C(CO)OC(C(C1O)O)OC1(CO)OC(C(C1O)O)CO,Sweet
+271,6-O-Methyl sucrose,COCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)O,Sweet
+272,"6,6'-di-O-Methyl sucrose",COCC1OC(C(C1O)O)(CO)OC1OC(COC)C(C(C1O)O)O,Sweet
+273,"4,6'-di-O-Methyl sucrose",COCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)OC,Sweet
+274,"4,6-di-O-Methyl sucrose",COCC1OC(OC2(CO)OC(C(C2O)O)CO)C(C(C1OC)O)O,Sweet
+275,"1',6'-di-O-Methyl sucrose",COCC1OC(C(C1O)O)(COC)OC1OC(CO)C(C(C1O)O)O,Sweet
+276,Methyl 2-deoxy-ƒ¿-D-gluco-pyranoside,COC1CC(O)C(C(O1)CO)O,Sweet
+277,Methyl 3-deoxy-ƒ¿-D-gluco-pyranoside,COC1OC(CO)C(CC1O)O,Sweet
+278,Methyl 4-deoxy-ƒ¿-D-gluco-pyranoside,COC1OC(CO)CC(C1O)O,Sweet
+279,Methyl 6-deoxy-ƒ¿-D-gluco-pyranoside,COC1OC(C)C(C(C1O)O)O,Sweet
+280,"Methyl-ƒ¿-D-2,6-dideoxy-gluco-pyranoside",COC1CC(O)C(C(O1)C)O,Non-sweet
+281,"Methyl-ƒ¿-D-3,6-dideoxy-gluco-pyranoside",COC1OC(C)C(CC1O)O,Non-sweet
+282,"Methyl-ƒ¿-D-4,6-dideoxy-gluco-pyranoside",COC1OC(C)CC(C1O)O,Non-sweet
+283,6-Chloro-6-deoxy-D-galactose,COC1OC(CCl)C(C(C1O)O)O,Non-sweet
+284,6-Chloro-6-deoxy-D-fructofuranose,ClCC1OC(C(C1O)O)(O)CO,Sweet
+285,"1,6-dichloro-1,6-deoxy-D-fructofuranose",ClCC1OC(C(C1O)O)(O)CCl,Sweet
+286,Methyl glucopyranoside,COC1OC(CO)C(C(C1O)O)O,Sweet
+287,6'-Chloro-sucrose,ClCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)O,Sweet
+288,1'-Chloro-sucrose,OCC1OC(C(C1O)O)(CCl)OC1OC(CO)C(C(C1O)O)O,Sweet
+289,"1',6'-Dichloro-sucrose",ClCC1OC(C(C1O)O)(CCl)OC1OC(CO)C(C(C1O)O)O,Sweet
+290,"1,6-Di-S-1,6-dithio-D-fructofuranose",CSCC1OC(C(C1O)O)(O)CSC,Sweet
+291,Alanine,CC(C(=O)O)N,Sweet
+292,Asparagine,C(C(C(=O)O)N)C(=O)N,Sweet
+293,Glutamine,OC(=O)CCC(C(=O)N)N,Sweet
+294,Glycine,NCC(=O)O,Sweet
+295,Histidine,NC(C(=O)O)Cc1c[nH]cn1,Sweet
+296,Methionine,CSCCC(C(=O)O)N,Sweet
+297,Serine,OCC(C(=O)O)N,Sweet
+298,Threonine,CC(C(C(=O)O)N)O,Sweet
+299,L-Aspartyl-aminomalonic acid diester 1,COC(=O)C(C(=O)OC1CCCC1)NC(=O)C(CC(=O)O)N,Sweet
+300,L-Aspartyl-aminomalonic acid diester 2,COC(=O)C(C(=O)OC1CCCCC1)NC(=O)C(CC(=O)O)N,Sweet
+301,L-Aspartyl-aminomalonic acid diester 3,COC(=O)C(C(=O)OC1C2(C)CCC(C1(C)C)C2)NC(=O)C(CC(=O)O)N,Sweet
+302,"N-(L-aspartyl)-1,1-diaminoalkane 1",CC(NC(=O)C(C)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+303,"N-(L-aspartyl)-1,1-diaminoalkane 2",CC(NC(=O)C(C1CC1)C1CC1)NC(=O)C(CC(=O)O)N,Sweet
+304,"N-(L-aspartyl)-1,1-diaminoalkane 3",CC(NC(=O)C1CCCC1)NC(=O)C(CC(=O)O)N,Sweet
+305,"N-(L-aspartyl)-1,1-diaminoalkane 4",CC(NC(=O)C1C(C)(C)CCC1(C)C)NC(=O)C(CC(=O)O)N,Sweet
+306,"N-(L-aspartyl)-1,1-diaminoalkane 5",CC(NC(=O)c1ccccc1)NC(=O)C(CC(=O)O)N,Sweet
+307,"N-(L-aspartyl)-1,1-diaminoalkane 6",CC(NC(=O)C1CCCCC1)NC(=O)C(CC(=O)O)N,Sweet
+308,"N-(L-aspartyl)-1,1-diaminoalkane 7",CC(NC(=O)C1C(C)CCCC1C)NC(=O)C(CC(=O)O)N,Sweet
+309,"N-(L-aspartyl)-1,1-diaminoalkane 8",CC(NC(=O)C1CC2CC1CC2)NC(=O)C(CC(=O)O)N,Sweet
+310,"N-(L-aspartyl)-1,1-diaminoalkane 9",CC(NC(=O)C12CC3CC(C2)CC(C1)C3)NC(=O)C(CC(=O)O)N,Sweet
+311,Super aspartame,COC(=O)C(NC(=O)C(NC(=O)Nc1ccc(cc1)C#N)CC(=O)O)Cc1ccccc1,Sweet
+312,Sucrononic acid,N#Cc1ccc(cc1)N=C(NC1CCCCCCCC1)NCC(=O)O,Sweet
+313,Cyanoarylurea aspartame,COC(=O)C(Cc1ccccc1)CC(=O)CNC(=O)Nc1ccc(cc1)C#N,Sweet
+314,Aspartic acid fenchyl ester,COC(=O)C(C(=O)OC1C2(C)CCC(C1(C)C)C2)NC(=O)C(C(=O)O)N,Sweet
+315,Glycine analog of cyanosuosan,N#Cc1ccc(cc1)NC(=O)NCC(=O)O,Sweet
+316,Glycine analog of suosan,O=C(Nc1ccc(cc1)N(=O)=O)NCC(=O)O,Sweet
+317,(R)-3-amino-3-phenylpropionic acid analog of N-(4-cyanophenyl)-N' carboxyethyl urea,O=C(Nc1ccc(cc1)N(=O)=O)NC(c1ccccc1)CC(=O)O,Non-sweet
+318,Nitroaniline (2-amino-4-nitrobenzene),Nc1cccc(c1)N(=O)=O,Sweet
+319,Methoxy-nitroaniline,COc1ccc(cc1N)N(=O)=O,Sweet
+320,Ethoxy-nitroaniline,CCOc1ccc(cc1N)N(=O)=O,Sweet
+321,Butoxy-nitroaniline,CCCCOc1ccc(cc1N)N(=O)=O,Sweet
+322,Fluoro-nitroaniline,O=N(=O)c1ccc(c(c1)N)F,Sweet
+323,Chloro-nitroaniline,O=N(=O)c1ccc(c(c1)N)Cl,Sweet
+324,Bromo-nitroaniline,O=N(=O)c1ccc(c(c1)N)Br,Sweet
+325,Iodo-nitroaniline,O=N(=O)c1ccc(c(c1)N)I,Sweet
+326,Methyl-nitroaniline,O=N(=O)c1ccc(c(c1)N)C,Sweet
+327,Allyl oxy-nitroaniline,C=COc1ccc(cc1N)N(=O)=O,Sweet
+328,iso Propoxy-nitroaniline,CC(Oc1ccc(cc1N)N(=O)=O)C,Sweet
+329,Hydroxy-nitroaniline,O=N(=O)c1ccc(c(c1)N)O,Sweet
+330,Saccharine derivative 1,O=C1NS(=O)(=O)c2c1cccc2N(=O)=O,Non-sweet
+331,Saccharine derivative 2,O=C1NS(=O)(=O)c2c1ccc(c2)N(=O)=O,Non-sweet
+332,Saccharine derivative 3,O=C1NS(=O)(=O)c2c1cc(cc2)N(=O)=O,Non-sweet
+333,Saccharine derivative 4,O=C1NS(=O)(=O)c2c1c(ccc2)N(=O)=O,Non-sweet
+334,Saccharine derivative 5,O=C1NS(=O)(=O)c2c1cccc2N,Sweet
+335,Saccharine derivative 7,O=C1c2ccccc2S(=O)(=O)N1C,Non-sweet
+336,Saccharine derivative 8,CCN1C(=O)c2c(S1(=O)=O)cccc2,Non-sweet
+337,Saccharine derivative 9,O=N(=O)c1ccc2c(c1)S(=O)(=O)N(C2=O)C,Non-sweet
+338,Saccharine derivative 10,CCN1C(=O)c2c(S1(=O)=O)c(ccc2)N(=O)=O,Non-sweet
+339,Saccharine derivative 11,CCN1C(=O)c2c(S1(=O)=O)cc(cc2)N(=O)=O,Non-sweet
+340,Saccharine derivative 12,CCN1C(=O)c2c(S1(=O)=O)ccc(c2)N(=O)=O,Non-sweet
+341,Saccharine derivative 13,Fc1ccc2c(c1)S(=O)(=O)NC2=O,Sweet
+342,Saccharine derivative 14,Ic1ccc2c(c1)S(=O)(=O)NC2=O,Non-sweet
+343,Saccharine derivative 15,Nc1ccc2c(c1)S(=O)(=O)NC2=O,Sweet
+344,Saccharine derivative 16,Oc1ccc2c(c1)S(=O)(=O)NC2=O,Sweet
+345,Saccharine derivative 17,COc1ccc2c(c1)S(=O)(=O)NC2=O,Non-sweet
+346,Saccharine derivative 18,CCOc1ccc2c(c1)S(=O)(=O)NC2=O,Non-sweet
+347,Saccharine derivative 20,Clc1ccc2c(c1)C(=O)NS2(=O)=O,Non-sweet
+348,Saccharine derivative 21,Nc1ccc2c(c1)C(=O)NS2(=O)=O,Non-sweet
+349,Saccharine derivative 22,COc1ccc2c(c1)C(=O)NS2(=O)=O,Non-sweet
+350,Saccharine derivative 23,O=C1NS(=O)(=O)c2c1c(Cl)ccc2,Sweet
+351,Saccharine derivative 25,O=C1NS(=O)(=O)c2c1c(N)ccc2,Sweet
+352,Saccharine derivative 27,COc1cccc2c1S(=O)(=O)NC2=O,Non-sweet
+353,Thiophenesaccharine,O=C1NS(=O)(=O)c2c1csc2,Sweet
+354,DL-4-(2-Chloro-2-propyl)-1-carboxaldehyde,ON=CC1=CCC(CC1)C(Cl)(C)C,Non-sweet
+355,Furfuraldehyde oxime,ON=Cc1ccco1,Sweet
+356,syn-hydroxymethyl Furfuraldehyde oxime,ON=Cc1ccc(o1)CO,Non-sweet
+357,5-Benzyl-2-Furfuraldehyde oxime,ON=Cc1ccc(o1)Cc1ccccc1,Sweet
+358,1-Cycloheptene-1-carboxaldehyde oxime,ON=CC1=CCCCCC1,Non-sweet
+359,anti-Cyclohexane carboxaldehyde,ON=CC1CCCCC1,Non-sweet
+360,Dihydroquercetin 3-acetate,CC(=O)OC1C(Oc2c(C1=O)c(O)cc(c2)O)c1ccc(c(c1)O)O,Sweet
+361,Hesperitin,COc1ccc(cc1O)C1CC(=O)c2c(O1)cc(cc2O)O,Sweet
+362,Neoastilbin,Oc1cc(O)c2c(c1)OC(C(C2=O)OC1OC(C)C(C(C1O)O)O)c1ccc(c(c1)O)O,Sweet
+363,ortho-Tolylurea,CC1=CC=CC=C1NC(=O)N,Non-sweet
+364,meta-Tolylurea,NC(=O)Nc1cccc(c1)C,Non-sweet
+365,para-Tolylurea,NC(=O)Nc1ccc(cc1)C,Sweet
+366,4-Propoxyphenyl urea,CCCOc1ccc(cc1)NC(=O)N,Sweet
+367,Suosan derivative 1 (suosan),O=C(Nc1ccc(cc1)N(=O)=O)NCCC(=O)O,Sweet
+368,Suosan derivative 2,CCCNC(=O)Nc1ccc(cc1)N(=O)=O,Non-sweet
+369,Suosan derivative 3,NC(=O)Nc1ccc(cc1)N(=O)=O,Non-sweet
+370,Suosan derivative 4,COC(=O)CCNC(=O)Nc1ccc(cc1)N(=O)=O,Non-sweet
+371,Suosan derivative 6,O=C(Nc1ccc(cc1)N(=O)=O)NCCCC(=O)O,Non-sweet
+372,Suosan derivative 7,O=C(Nc1ccc(cc1)N(=O)=O)NCCC(=O)OS(=O)(=O)O,Non-sweet
+373,Suosan derivative 8,O=C(Nc1ccc(cc1)N(=O)=O)NC=CC(=O)O,Non-sweet
+374,Suosan derivative 9,OC(=O)CCOC(=O)Nc1ccc(cc1)N(=O)=O,Non-sweet
+375,Suosan derivative 10,OC(=O)CCCNC(=O)c1ccc(cc1)N(=O)=O,Non-sweet
+376,Suosan derivative 11,OC(=O)CCNC(=S)Nc1ccc(cc1)N(=O)=O,Sweet
+377,Suosan derivative 12,O=C(Cc1ccc(cc1)N(=O)=O)NCCC(=O)O,Non-sweet
+378,Suosan derivative 13,OC(=O)CCNC(=O)Oc1ccc(cc1)N(=O)=O,Sweet
+379,Suosan derivative 14,O=C(NNc1ccc(cc1)N(=O)=O)CCC(=O)O,Non-sweet
+380,Suosan derivative 15,OC(=O)CCNNC(=O)c1ccc(cc1)N(=O)=O,Non-sweet
+381,Suosan derivative 16,N#Cc1ccc(cc1)NC(=O)NCCC(=O)O,Sweet
+382,Suosan derivative 17,O=C(Nc1ccccc1)NCCC(=O)O,Non-sweet
+383,Suosan derivative 18,OC(=O)CCNC(=O)N,Non-sweet
+384,Pyrrolidine,C1CCCN1,Non-sweet
+385,Pyrrole,c1ccc[nH]1,Non-sweet
+386,Imidazole,c1ncc[nH]1,Non-sweet
+387,Pyrazole,c1ccn[nH]1,Non-sweet
+388,Piperidine,C1CCNCC1,Non-sweet
+389,Piperazine,N1CCNCC1,Non-sweet
+390,Purine,c1ccc2c(c1)[nH]cn2,Non-sweet
+391,Pyridazine,c1ccnnc1,Non-sweet
+392,Pyrazine,n1ccncc1,Non-sweet
+393,Pyridine,c1cccnc1,Non-sweet
+394,Pyrimidine,c1ccncn1,Non-sweet
+395,Strichnine,O=C1CC2OCC=C3C4C2C2N1c1ccccc1C12CCN(C1C4)C3,Non-sweet
+396,Brucine,COc1cc2c(cc1OC)N1C3C42CCN2C4CC4C3C(CC1=O)OCC=C4C2,Non-sweet
+397,Piperine,O=C(N1CCCCC1)C=CC=CC1CCC2C(C1)OCO2,Non-sweet
+398,Solanine,OCC1OC(OC2CCC3(C(=CCC4C3CCC3(C4CC4C3C(C)C3N4CCC(C3)C)C)C2)C)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OC(C)C(C(C1O)O)O,Non-sweet
+399,Diterpene derivative 1,O=CC1C(C)(C)CCC2C1(COC(=O)C)C1C(O)CC3CC1(C(=O)O2)C(=O)C3=C,Non-sweet
+400,Diterpene derivative 2,O=CC1C(C)(C)CCC2C1(COC(=O)C)C1C(O)CC3CC1(C(=O)O2)C(=O)C3C,Non-sweet
+401,Diterpene derivative 3,CC(=O)OCC12C(CCC(C2C(=O)O)(C)C)OC(=O)C23C1C(O)CC(C2)C(C3=O)C,Non-sweet
+402,Diterpene derivative 4,COC(=O)C1C(C)(C)CCC2C1(COC(=O)C)C1C(O)CC3CC1(C(=O)O2)C(=O)C3C,Non-sweet
+403,Denatonium chloride,CC[N](Cc1ccc(cc1)Cl)(CC(=O)Nc1c(C)cccc1C)CC,Non-sweet
+404,Denatonium chloride derivative 1,ClC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+405,Denatonium chloride derivative 2,BrCC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+406,Denatonium chloride derivative 3,ICCCC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+407,Denatonium chloride derivative 4,ClCCCCC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+408,Denatonium chloride derivative 5,ClCCCCCC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+409,Denatonium chloride derivative 6,ClCCCCCCCC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+410,Denatonium chloride derivative 7,ClCCCCCCCCCC[N](CC(=O)Nc1c(C)cccc1C)(C)C,Non-sweet
+411,Denatonium chloride derivative 8,O=C(C[N](Cc1ccc(cc1)Cl)(C)C)Nc1c(C)cccc1C,Non-sweet
+412,Denatonium chloride derivative 9,O=C(C[N](CCc1ccc(cc1)Cl)(C)C)Nc1c(C)cccc1C,Non-sweet
+413,Denatonium chloride derivative 10,O=C(C[N](CCCc1ccc(cc1)Cl)(C)C)Nc1c(C)cccc1C,Non-sweet
+414,Denatonium chloride derivative 11,CC[N](Cc1ccc(cc1)Cl)(CC(=O)Nc1c(C)cccc1C)C,Non-sweet
+415,Denatonium chloride derivative 12,CCCC[N](Cc1ccc(cc1)Cl)(CC(=O)Nc1c(C)cccc1C)C,Non-sweet
+416,Denatonium chloride derivative 13,Clc1ccc(cc1)C[N](Cc1ccccc1)(CC(=O)Nc1c(C)cccc1C)C,Non-sweet
+417,Methyl-ƒÀ-D-Fructopyranose,COC1(CO)OCC(C(C1O)O)O,Sweet
+418,5-deoxy-D-threo-Hexulose,OCC1(O)OCCC(C1O)O,Sweet
+419,Oxathiazinon dioxide derivative 1,O=C1C=C(C)OS(=O)(=O)N1,Sweet
+420,Oxathiazinon dioxide derivative 2,CCC1=CC(=O)NS(=O)(=O)O1,Sweet
+421,Oxathiazinon dioxide derivative 3,CC1=C(C)OS(=O)(=O)NC1=O,Sweet
+422,Oxathiazinon dioxide derivative 4,CCC1=C(C)OS(=O)(=O)NC1=O,Sweet
+423,Oxathiazinon dioxide derivative 5,CCC1=C(C)C(=O)NS(=O)(=O)O1,Sweet
+424,Oxathiazinon dioxide derivative 6,O=C1NS(=O)(=O)OC=C1C,Sweet
+425,3-amino-4-chlorobenzoic acid,OC(=O)c1ccc(c(c1)N)Cl,Non-sweet
+426,2-aminobenzoic acid,OC(=O)c1ccccc1N,Sweet
+427,2-nitroaniline,O=N(=O)c1ccccc1N,Non-sweet
+428,N-Carbamoyl derivative 1,OC(=O)CCNC(=O)Nc1ccc(cc1)C(=O)O,Non-sweet
+429,N-Carbamoyl derivative 2,N#CCCNC(=O)Nc1ccc(cc1)N(=O)=O,Non-sweet
+430,Germacrolide,CC1CCCC2(C1C1OC(=O)C(C1CC2)C)C,Non-sweet
+431,"3-anilino-2-styryl-3H-naphthol[l, 2-d]imidazole-5-sulfonate (SSN)",CC(=C(c1nc2c(n1Nc1ccccc1)cc(c1c2cccc1)S(=O)(=O)O)C)c1ccccc1,Sweet
+432,"3-anilino-2-phenyl-3H-naphtho-[I, 2-d]imidazol-5-sulfonate (TSN)",OS(=O)(=O)c1cc2n(Nc3ccccc3)c(nc2c2c1cccc2)c1ccccc1,Non-sweet
+433,Perillartine,ON=CC1=CCC(CC1)C(=C)C,Sweet
+434,"1',4',6'-3Cl-sucrose",ClCC1OC(C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)O,Sweet
+435,"1',4'-2Cl-sucrose",OCC1OC(C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)O,Sweet
+436,"4'-Br-4,1',6'-3Cl-sucrose",ClCC1OC(C(C1Br)O)(CCl)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+437,"4'-F-4,1',6'-3Cl-sucrose",ClCC1OC(C(C1F)O)(CCl)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+438,"4,1',4',6'-4Br-sucrose",BrCC1OC(C(C1Br)O)(CBr)OC1OC(CO)C(C(C1O)O)Br,Sweet
+439,"4,1',4',6'-4Cl-sucrose",ClCC1OC(C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+440,"4,1',4'-3Cl-sucrose",OCC1OC(C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+441,"4,1',6'-3Br-sucrose",BrCC1OC(C(C1O)O)(CBr)OC1OC(CO)C(C(C1O)O)Br,Sweet
+442,"4,1',6'-3F-sucrose",FCC1OC(C(C1O)O)(CF)OC1OC(CO)C(C(C1O)O)F,Sweet
+443,"4,1',6'-3I-sucrose",ICC1OC(C(C1O)O)(CI)OC1OC(CO)C(C(C1O)O)I,Sweet
+444,"4,1'-2Cl-sucrose",OCC1OC(C(C1O)O)(CCl)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+445,"4,4',6'-3Cl-sucrose",ClCC1OC(C(C1Cl)O)(CO)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+446,"4,6,1',6'-4Cl-sucrose",ClCC1OC(C(C1O)O)(CCl)OC1OC(CCl)C(C(C1O)O)Cl,Sweet
+447,4-Cl-sucrose,OCC1OC(C(C1O)O)(CO)OC1OC(CO)C(C(C1O)O)Cl,Sweet
+448,"4-F-1',4',6'-3Br-sucrose",BrCC1OC(C(C1Br)O)(CBr)OC1OC(CO)C(C(C1O)O)F,Sweet
+449,"4-F-1',4',6'-3Cl-sucrose",ClCC1OC(C(C1Cl)O)(CCl)OC1OC(CO)C(C(C1O)O)F,Sweet
+450,4-O-n-propyl glycosides DHC,CCCOc1ccc(cc1O)CCC(=O)c1c(O)cc(cc1O)OC1OC(CO)C(C(C1OC1OC(C)C(C(C1O)O)O)O)O,Sweet
+451,"4ƒÀ,10ƒ¿-dimethyl-1,2,3,4,5,10-hexahydrofluorene-4ƒ¿,6ƒ¿-dicarboxylic acid",OC(=O)C1(C)CCCC2(C1C(O)(C(=O)O)c1c2cccc1)C,Sweet
+452,"6,1',6'-3Cl-sucrose",ClCC1OC(C(C1O)O)(CCl)OC1OC(CCl)C(C(C1O)O)O,Sweet
+453,6-chloro-tryptophan,C1=CC2=C(C=C1Cl)NC=C2CC(C(=O)O)N,Sweet
+454,Liquiritin,OCC1OC(Oc2ccc(cc2)C2CC(=O)c3c(O2)cc(cc3)O)C(C(C1O)O)O,Sweet
+455,N-Acetyl-D-glucosamine,O=CC(C(C(C(CO)O)O)O)NC(=O)C,Sweet
+456,Periandrin I,O=CC12CCC(C(C1CCC1(C2CCC2C1(C)CCC1(C2=CC(C)(CC1)C(=O)O)C)C)(C)C)OC1OC(C(=O)O)C(C(C1OC1OC(C(=O)O)C(C(C1O)O)O)O)O,Sweet
+457,Periandrin II,O=CC12CCC(C(C1CCC1(C2CC=C2C1(C)CCC1(C2CC(C)(CC1)C(=O)O)C)C)(C)C)OC1OC(C(=O)O)C(C(C1OC1OC(C(=O)O)C(C(C1O)O)O)O)O,Sweet
+458,Periandrin III,OCC12CCC(C(C1CCC1(C2CCC2C1(C)CCC1(C2=CC(C)(CC1)C(=O)O)C)C)(C)C)OC1OC(C(=O)O)C(C(C1OC1OC(C(=O)O)C(C(C1O)O)O)O)O,Sweet
+459,Periandrin IV,OCC12CCC(C(C1CCC1(C2CC=C2C1(C)CCC1(C2CC(C)(CC1)C(=O)O)C)C)(C)C)OC1OC(C(=O)O)C(C(C1OC1OC(C(=O)O)C(C(C1O)O)O)O)O,Sweet
+460,Abrusoside B,COC(=O)C1OC(OC2CCC34C(C2(C)C(=O)O)CCC2C4(C3)CCC3(C2(C)CCC3C(C2CC=C(C(=O)O2)C)C)C)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+461,Abrusoside C,OCC1OC(OC2CCC34C(C2(C)C(=O)O)CCC2C4(C3)CCC3(C2(C)CCC3C(C2CC=C(C(=O)O2)C)C)C)C(C(C1O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+462,Abrusoside D,OCC1OC(OC2C(OC(C(C2O)O)C(=O)O)OC2CCC34C(C2(C)C(=O)O)CCC2C4(C3)CCC3(C2(C)CCC3C(C2CC=C(C(=O)O2)C)C)C)C(C(C1O)O)O,Sweet
+463,Acesulfame potassium_CH3CH2CH2_CH3,CCCC1=C(C)OS(=O)(=O)NC1=O,Sweet
+464,Acesulfame potassium_CH3CH2_H,CCC1=COS(=O)(=O)NC1=O,Sweet
+465,Acesulfame potassium_H_H,O=C1C=COS(=O)(=O)N1,Sweet
+466,Albiziasaponin B,OCC1OC(OC2C(OC(C(C2O)O)COC2OCC(C(C2O)O)O)OC2CCC3(C(C2(C)C)CCC2(C3CC=C3C2(C)CC(C24C3CC(C)(C)C(C2)OC4=O)O)C)C)C(C(C1O)O)O,Sweet
+467,Ammonium glycyrrhizinate,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C.N,Sweet
+468,Asp 1,NC(C(=O)NCCc1ccc(cc1)F)CC(=O)O,Sweet
+469,Asp 2,NC(C(=O)NCCC1CCCCC1)CC(=O)O,Sweet
+470,Asp 3,CC(Cc1ccccc1)NC(=O)C(CC(=O)O)N,Sweet
+471,Asp 4,CC(Cc1ccc(cc1)C)NC(=O)C(CC(=O)O)N,Sweet
+472,Asp 5,CC(NC(=O)C(CC(=O)O)N)COc1ccccc1,Sweet
+473,Asp 6,CC(Cc1ccc(cc1)F)NC(=O)C(CC(=O)O)N,Sweet
+474,Asp 7,CC(Cc1ccco1)NC(=O)C(CC(=O)O)N,Sweet
+475,Asp 8,CC(NC(=O)C(CC(=O)O)N)CC1CCCCC1,Sweet
+476,Asp 9,CCCCC(NC(=O)C(CC(=O)O)N)C,Sweet
+477,Asp 10,CCCCCC(NC(=O)C(CC(=O)O)N)C,Sweet
+478,Asp 11,CC(CCC(NC(=O)C(CC(=O)O)N)C)C,Sweet
+479,Asp 14,CC(NC(=O)C(CC(=O)O)N)CCOCC,Sweet
+480,Asp 15,CCCCCCC(NC(=O)C(CC(=O)O)N)C,Sweet
+481,Asp 16,CCC(Cc1ccccc1)NC(=O)C(CC(=O)O)N,Sweet
+482,Asp 17,NC(C(=O)NC(Cc1ccccc1)(C)C)CC(=O)O,Sweet
+483,Asp 18,CCCCCC(C(NC(=O)C(CC(=O)O)N)C)C,Sweet
+484,Asp 20,COC(=O)C(NC(=O)C(CC(=O)O)N)CC1CCCCC1,Sweet
+485,Asp 21,CCCCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+486,Asp 22,COC(=O)C(NC(=O)C(CC(=O)O)N)CCC(C)C,Sweet
+487,Asp 23,CCCCCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+488,Asp 24,CCCCCCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+489,Asp 52,COC(=O)C(NC(=O)C(CC(=O)O)N)CCCCNOC(=O)C,Sweet
+490,Asp 53,COC(=O)C(NC(=O)C(CC(=O)O)N)CCCNOC(=O)C,Sweet
+491,Asp 55,COC(=O)C(NC(=O)C(CC(=O)O)N)CC(C(=O)OC)C,Sweet
+492,Asp 56,CCCC(C(C(=O)OC)NC(=O)C(CC(=O)O)N)O,Sweet
+493,Asp 58,COC(=O)CCCNC(=O)C(CC(=O)O)N,Sweet
+494,Asp 60,COC(=O)C(NC(=O)C(CC(=O)O)N)CSCC,Sweet
+495,Asp 61,CCCSCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+496,Asp 62,COC(=O)C(NC(=O)C(CC(=O)O)N)CSC(C)C,Sweet
+497,Asp 63,COC(=O)C(NC(=O)C(CC(=O)O)N)CSC(C)(C)C,Sweet
+498,Asp 64,COC(=O)C(NC(=O)C(CC(=O)O)N)COC(C)(C)C,Sweet
+499,Asp 65,COC(=O)C(Cc1ccc(cc1)O)NC(=O)C(CC(=O)O)N,Sweet
+500,Asp 66,COC(=O)CCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+501,Asp 67,CC(=O)OCCNC(=O)C(CC(=O)O)N,Sweet
+502,Asp 68,CCC(=O)OCCNC(=O)C(CC(=O)O)N,Sweet
+503,Asp 69,CCCC(=O)OCCNC(=O)C(CC(=O)O)N,Sweet
+504,Asp 70,NC(C(=O)NCCOC(=O)C(C)C)CC(=O)O,Sweet
+505,Asp 71,NC(C(=O)NCCOC(=O)C1CC1)CC(=O)O,Sweet
+506,Asp 72,NC(C(=O)NCCOC(=O)C1CCC1)CC(=O)O,Sweet
+507,Asp 73,CC(CC(=O)OCCNC(=O)C(CC(=O)O)N)C,Sweet
+508,Asp 74,CC(NC(=O)C(CC(=O)O)N)COC(=O)C,Sweet
+509,Asp 75,CC(NC(=O)C(CC(=O)O)N)COC(=O)CC,Sweet
+510,Asp 76,CC(NC(=O)C(CC(=O)O)N)COC(=O)C=C,Sweet
+511,Asp 77,CCCC(=O)OCC(NC(=O)C(CC(=O)O)N)C,Sweet
+512,Asp 78,CC(NC(=O)C(CC(=O)O)N)COC(=O)C(C)C,Sweet
+513,Asp 79,CC(NC(=O)C(CC(=O)O)N)COC(=O)C(=C)C,Sweet
+514,Asp 80,CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1,Sweet
+515,Asp 81,CCCCC(=O)OCC(NC(=O)C(CC(=O)O)N)C,Sweet
+516,Asp 82,CC(NC(=O)C(CC(=O)O)N)COC(=O)C(CC)C,Sweet
+517,Asp 83,CC(CC(=O)OCC(NC(=O)C(CC(=O)O)N)C)C,Sweet
+518,Asp 84,CC(NC(=O)C(CC(=O)O)N)COC(=O)C(C)(C)C,Sweet
+519,Asp 85,CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1C,Sweet
+520,Asp 86,CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1,Sweet
+521,Asp 87,CCC(C(=O)OCC(NC(=O)C(CC(=O)O)N)C)CC,Sweet
+522,Asp 88,CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1C,Sweet
+523,Asp 89,CC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCCC1,Sweet
+524,Asp 90,OCC(NC(=O)C(CC(=O)O)N)COC(=O)C,Sweet
+525,Asp 91,OCC(NC(=O)C(CC(=O)O)N)COC(=O)CC,Sweet
+526,Asp 92,OCC(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1,Sweet
+527,Asp 93,OCC(NC(=O)C(CC(=O)O)N)COC(=O)C(C)C,Sweet
+528,Asp 94,CCCC(=O)OCC(NC(=O)C(CC(=O)O)N)CO,Sweet
+529,Asp 95,OCC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1,Sweet
+530,Asp 96,OCC(NC(=O)C(CC(=O)O)N)COC(=O)CC(C)C,Sweet
+531,Asp 97,OCC(NC(=O)C(CC(=O)O)N)COC(=O)C(CC)C,Sweet
+532,Asp 98,OCC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCCC1,Sweet
+533,Asp 99,CCC(NC(=O)C(CC(=O)O)N)COC(=O)C,Sweet
+534,Asp 100,CCC(NC(=O)C(CC(=O)O)N)COC(=O)CC,Sweet
+535,Asp 101,CCC(NC(=O)C(CC(=O)O)N)COC(=O)C(C)C,Sweet
+536,Asp 102,CCC(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1,Sweet
+537,Asp 103,CCC(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1,Sweet
+538,Asp 104,CC(=O)OCC(C(O)C)NC(=O)C(CC(=O)O)N,Sweet
+539,Asp 105,CC(C(NC(=O)C(CC(=O)O)N)COC(=O)CC)O,Sweet
+540,Asp 106,CC(=O)OCC(C(C)C)NC(=O)C(CC(=O)O)N,Sweet
+541,Asp 107,CCC(=O)OCC(C(C)C)NC(=O)C(CC(=O)O)N,Sweet
+542,Asp 108,CC(C(NC(=O)C(CC(=O)O)N)COC(=O)C(C)C)C,Sweet
+543,Asp 109,CC(C(NC(=O)C(CC(=O)O)N)COC(=O)C1CC1)C,Sweet
+544,Asp 110,CC(C(NC(=O)C(CC(=O)O)N)COC(=O)C1CCC1)C,Sweet
+545,Asp 112,CCCC(NC(=O)C(CC(=O)O)N)COC(=O)C,Sweet
+546,Asp 122,COC(=O)C(NC(=O)C(CC(=O)O)N)COC(=O)C,Sweet
+547,Asp 123,CCC(=O)OCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+548,Asp 124,CCCC(=O)OCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+549,Asp 125,COC(=O)C(NC(=O)C(CC(=O)O)N)COC(=O)C(C)C,Sweet
+550,Asp 126,COC(=O)C(NC(=O)C(CC(=O)O)N)COC(=O)C(C)(C)C,Sweet
+551,Asp 128,CC(NC(=O)C(CC(=O)O)N)CC(=O)OCC,Sweet
+552,Asp 129,CC(CC(=O)OC(C)C)NC(=O)C(CC(=O)O)N,Sweet
+553,Asp 130,CCC(OC(=O)CC(NC(=O)C(CC(=O)O)N)C)C,Sweet
+554,Asp 131,CC(CC(=O)OC(C)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+555,Asp 132,CC(NC(=O)C(CC(=O)O)N)CC(=O)OC1CCCCC1,Sweet
+556,Asp 134,CCC(OC(=O)CCNC(=O)C(CC(=O)O)N)C,Sweet
+557,Asp 135,NC(C(=O)NCCC(=O)OC(C)(C)C)CC(=O)O,Sweet
+558,Asp 136,CCC(OC(=O)CCNC(=O)C(CC(=O)O)N)CC,Sweet
+559,Asp 137,CCCC(OC(=O)CCNC(=O)C(CC(=O)O)N)C,Sweet
+560,Asp 138,O=C(OC1CCCC1)CCNC(=O)C(CC(=O)O)N,Sweet
+561,Asp 139,OC(=O)CC(C(=O)NCCC(=O)OC1CCCCC1)N,Sweet
+562,Asp 140,CC(C(=O)OC(C)C)CNC(=O)C(CC(=O)O)N,Sweet
+563,Asp 141,CC(C(=O)OC(C)(C)C)CNC(=O)C(CC(=O)O)N,Sweet
+564,Asp 142,OC(=O)CC(C(=O)NCC(C(=O)OC1CCCC1)C)N,Sweet
+565,Asp 143,CC(C(=O)OC1CCCCC1)CNC(=O)C(CC(=O)O)N,Sweet
+566,Asp 153,CC(NC(=O)C(CC(=O)O)N)CC(=O)OC,Sweet
+567,Asp 154,COC(=O)CCNC(=O)C(CC(=O)O)N,Sweet
+568,Asp 155,NC(C(=O)NCCC(=O)OC(C)C)CC(=O)O,Sweet
+569,Asp 156,CCOC(=O)CC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+570,Asp 157,COC(=O)C(NC(=O)C(CC(=O)O)N)CC(=O)OC(C)(C)C,Sweet
+571,Asp 159,CCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+572,Asp 160,OCC(C(=O)OC)NC(=O)C(CC(=O)O)N,Sweet
+573,Asp 161,CCOC(=O)C(NC(=O)C(CC(=O)O)N)CO,Sweet
+574,Asp 163,OCC(C(=O)OC(C)C)NC(=O)C(CC(=O)O)N,Sweet
+575,Asp 164,CCCCOC(=O)C(NC(=O)C(CC(=O)O)N)CO,Sweet
+576,Asp 165,OCC(C(=O)OCC(C)C)NC(=O)C(CC(=O)O)N,Sweet
+577,Asp 166,OCC(C(=O)OC1CCCCC1)NC(=O)C(CC(=O)O)N,Sweet
+578,Asp 167,COC(=O)C(C(O)C)NC(=O)C(CC(=O)O)N,Sweet
+579,Asp 168,CCOC(=O)C(C(O)C)NC(=O)C(CC(=O)O)N,Sweet
+580,Asp 169,CCCOC(=O)C(C(O)C)NC(=O)C(CC(=O)O)N,Sweet
+581,Asp 170,OC(=O)CC(C(=O)NC(C(=O)OC(C)C)C(O)C)N,Sweet
+582,Asp 171,CCCCOC(=O)C(C(O)C)NC(=O)C(CC(=O)O)N,Sweet
+583,Asp 172,CC(COC(=O)C(C(O)C)NC(=O)C(CC(=O)O)N)C,Sweet
+584,Asp 173,CC(C(C(=O)OC1CCCCC1)NC(=O)C(CC(=O)O)N)O,Sweet
+585,Asp 181,CCCOC(=O)C(NC(=O)C(CC(=O)O)N)CC,Sweet
+586,Asp 182,COC(=O)CNC(=O)C(CC(=O)O)N,Sweet
+587,Asp 183,CCCOC(=O)CNC(=O)C(CC(=O)O)N,Sweet
+588,Asp 184,NC(C(=O)NCC(=O)OC1CCCCC1)CC(=O)O,Sweet
+589,Asp 185,CCCOC(=O)C(NC(=O)C(CC(=O)O)N)CCC,Sweet
+590,Asp 186,COC(=O)C(NC(=O)C(CC(=O)O)N)C,Sweet
+591,Asp 187,CC(C(=O)OCC)NC(=O)C(CC(=O)O)N,Sweet
+592,Asp 188,CCCOC(=O)C(NC(=O)C(CC(=O)O)N)C,Sweet
+593,Asp 189,CC(C(=O)OC(C)C)NC(=O)C(CC(=O)O)N,Sweet
+594,Asp 190,CCCCOC(=O)C(NC(=O)C(CC(=O)O)N)C,Sweet
+595,Asp 191,CCCCCOC(=O)C(NC(=O)C(CC(=O)O)N)C,Sweet
+596,Asp 192,CCC(C(=O)OC(C)C)NC(=O)C(CC(=O)O)N,Sweet
+597,Asp 193,OC(=O)CC(C(=O)NC(C(=O)OC(C)C)C(C)C)N,Sweet
+598,Asp 194,CCCC(C(=O)OC(C)C)NC(=O)C(CC(=O)O)N,Sweet
+599,Asp 197,COC(=O)C(C(=O)OC(C)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+600,Asp 198,CCC(OC(=O)C(C(=O)OC)NC(=O)C(CC(=O)O)N)CC,Sweet
+601,Asp 204,COC(=O)C(C(=O)OC1CCCC(C1)C)NC(=O)C(CC(=O)O)N,Sweet
+602,Asp 207,COC(=O)C(C(=O)OC1CC(C)CC(C1)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+603,Asp 208,COC(=O)C(C(=O)OC(=O)OC1CC2C(C1(C)CC2)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+604,Asp 211,CCOC(=O)C(C(=O)OC(C)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+605,Asp 212,CCOC(=O)C(C(=O)OC1CCCC1)NC(=O)C(CC(=O)O)N,Sweet
+606,Asp 213,CCOC(=O)C(C(=O)OC1CCCCC1)NC(=O)C(CC(=O)O)N,Sweet
+607,Asp 214,CCOC(=O)C(C(=O)OC1CCCCC1C)NC(=O)C(CC(=O)O)N,Sweet
+608,Asp 215,CCOC(=O)C(C(=O)OC(=O)OC1CC2C(C1(C)CC2)(C)C)NC(=O)C(CC(=O)O)N,Sweet
+609,Aspartame-acesulfame salt,CC1=CC(=O)NS(=O)(=O)O1.COC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)N,Sweet
+610,Baiyunoside,OCC1OC(OC2CCC3(C(C2(C)C)CCC(=C3CCc2cocc2)C)C)C(C(C1O)O)OC1OCC(C(C1O)O)O,Sweet
+611,"3-(3-carbamoyl-2,4,6-tribromophehyl)-propionic acid",OC(=O)CCc1c(Br)cc(c(c1Br)C(=O)N)Br,Sweet
+612,Bernardame,N#Cc1ccc(cc1)N=C(NCc1cccc(c1)C)NCC(=O)O,Sweet
+613,Calcium cyclamate,C1CCC(CC1)NS(=O)(=O)[O-].C1CCC(CC1)NS(=O)(=O)[O-].[Ca+2],Sweet
+614,Calcium saccharin,C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-].C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-].[Ca+2],Sweet
+615,cyclamate,OS(=O)(=O)NC1CCCCC1,Sweet
+616,Cyclocarioside A,CC(=O)OCC1OC(C(C1O)O)OC1CCC2(C(C1(C)C)CCC1(C2CC(OC2OC(C)C(C(C2O)O)O)C2C1(C)CCC2C1(C)CCC(O1)C(O)(C)C)C)C,Sweet
+617,Disodium glycyrrhizinate,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)[O-])O)O)OC5C(C(C(C(O5)C(=O)[O-])O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)[O-])C)C)C)C.[Na+].[Na+],Sweet
+618,Gaudichaudioside A,OCC=C(CCC1=C(C=O)CC(C2C1(C)CCCC2(C)CO)OC1OCC(C(C1O)O)O)C,Sweet
+619,Hesperinin glucoside DHC,OCC1OC(Oc2cc(O)c(c(c2)O)C(=O)CCc2ccc(c(c2)O)OC)C(C(C1O)O)O,Sweet
+620,Homoeohesperidin DHC,CCOc1ccc(cc1O)CCC(=O)c1c(O)cc(cc1O)OC1OC(CO)C(C(C1OC1OC(C)C(C(C1O)O)O)O)O,Sweet
+621,Isovanillic 18,COc1ccc(cc1O)C(Oc1ccccc1)O,Sweet
+622,Isovanillic 24,Oc1cc2OC3(C(c2cc1O)c1ccc(c(c1OC3)O)O)O,Sweet
+623,isovanillic 25,COc1ccc2c(c1)OC1(C2c2ccccc2OC1)O,Sweet
+624,Leucrose,OCC(C(C(C(=O)CO)O)O)OC1OC(CO)C(C(C1O)O)O,Sweet
+625,Lugduname,N#Cc1ccc(cc1)NC(=NCc1cccc2c1OCO2)NCC(=O)O,Sweet
+626,Mogroside II,OCC1OC(OC(C(O)(C)C)CCC(C2CCC3(C2(C)CC(O)C2(C3CC=C3C2CCC(C3(C)C)OC2OC(CO)C(C(C2O)O)O)C)C)C)C(C(C1O)O)O,Sweet
+627,Mogroside IV,OCC1OC(OC(C(O)(C)C)CCC(C2CCC3(C2(C)CC(O)C2(C3CC=C3C2CCC(C3(C)C)OC2OC(COC3OC(CO)C(C(C3O)O)O)C(C(C2O)O)O)C)C)C)C(C(C1O)O)OC1OC(O)C(C(C1CO)O)O,Sweet
+628,Mogroside V,OCC1OC(OC2C(OC(C(C2O)O)COC2OC(CO)C(C(C2O)O)O)OC(C(O)(C)C)CCC(C2CCC3(C2(C)CC(O)C2(C3CC=C3C2CCC(C3(C)C)OC2OC(COC3OC(CO)C(C(C3O)O)O)C(C(C2O)O)O)C)C)C)C(C(C1O)O)O,Sweet
+629,Naringin DHC,OCC1OC(Oc2cc(O)c(c(c2)O)C(=O)CCc2ccc(cc2)O)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Sweet
+630,Neoeriocitrin DHC,OCC1OC(Oc2cc(O)c(c(c2)O)C(=O)CCc2ccc(c(c2)O)O)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Sweet
+631,Osladin,OCC1OC(OC2CCC3(C(C2)C(=O)CC2C3CCC3(C2CCC3C(C2CCC(C(O2)OC2OC(C)C(C(C2O)O)O)C)C)C)C)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Sweet
+632,Polypodoside A,OCC1OC(OC2CCC3(C(C2)C(=O)C=C2C3CCC3(C2CCC3C(C2CCC(C(O2)OC2OC(C)C(C(C2O)O)O)C)C)C)C)C(C(C1O)O)OC1OC(C)C(C(C1O)O)O,Sweet
+633,Potassium glycyrrhizinate,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)[O-])O)O)OC5C(C(C(C(O5)CO)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C.[K+],Sweet
+634,Potassium saccharin,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[K+],Sweet
+635,Prunin DHC,OCC1OC(Oc2cc(O)c(c(c2)O)C(=O)CCc2ccc(cc2)O)C(C(C1O)O)O,Sweet
+636,Pterocaryoside A,OC(=O)CCC1(C)C(CCC2(C1CC(OC1OC(C)C(C(C1O)O)O)C1C2(C)CCC1C(CC=CC(O)(C)C)(O)C)C)C(=C)C,Sweet
+637,Pterocaryoside B,OC(=O)CCC1(C)C(CCC2(C1CC(OC1OCC(C(C1O)O)O)C1C2(C)CCC1C(CC=CC(O)(C)C)(O)C)C)C(=C)C,Sweet
+638,Rebaudioside F,OCC1OC(OC23CCC4C(C2)(CC3=C)CCC2C4(C)CCCC2C(=O)OC2OC(CO)C(C(C2O)O)O)C(C(C1O)OC1OC(CO)C(C(C1O)O)O)OC1OCC(C(C1O)O)O,Sweet
+639,Ribose,OCC(C(C(C=O)O)O)O,Sweet
+640,Rubusoside,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)O)O)(C)C(=O)OC6C(C(C(C(O6)CO)O)O)O,Sweet
+641,Saccharin,O=C1NS(=O)(=O)c2c1cccc2,Sweet
+642,Selligueain A,Oc1ccc(cc1)C1Oc2c(C(C1O)c1c(O)cc(c3c1OC(C(C3)O)c1ccc(cc1)O)O)c(O)cc1c2C2c3c(O)cc(cc3OC(O1)(C2O)c1ccc(cc1)O)O,Sweet
+643,Siamenoside I,OCC1OC(OC2C(OC(C(C2O)O)COC2OC(CO)C(C(C2O)O)O)OC(C(O)(C)C)CCC(C2CCC3(C2(C)CC(O)C2(C3CC=C3C2CCC(C3(C)C)OC2OC(CO)C(C(C2O)O)O)C)C)C)C(C(C1O)O)O,Sweet
+644,Sorbose,OCC(C(C(C(=O)CO)O)O)O,Sweet
+645,Telosmoside A,COC1CC(OC(C1OC1CC(OC)C(C(O1)C)OC1CC(OC)C(C(O1)C)OC1OC(C)C(C(C1O)OC)OC1OC(CO)C(C(C1O)O)O)C)OC1C(O)CC(OC1C)OC1CCC2(C(C1)CCC1C2CC(OC(=O)C)C2(C1(O)CCC2(O)C(OC(=O)C(CC)C)C)C)C,Sweet
+646,trans-anethole,CC=Cc1ccc(cc1)OC,Sweet
+647,trans-cinnamaldehyde,O=CC=Cc1ccccc1,Sweet
+648,Tripotassium glycyrrhizinate,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)[O-])O)O)OC5C(C(C(C(O5)C(=O)[O-])O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)[O-])C)C)C)C.[K+].[K+].[K+],Sweet
+649,Xylobiose,OC1COC(C(C1O)O)OC1COC(C(C1O)O)O,Sweet
