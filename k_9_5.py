@@ -56,4 +56,4 @@ out = Get_layer_output([[X_train[0]],0])
 print(out)
 print(out[0].shape)
 # print(out[0])
-
+print("kusa")
